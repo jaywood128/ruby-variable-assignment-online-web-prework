@@ -4,3 +4,4 @@ def greeting
   put phrase
   put phrase
 end
+greeting
