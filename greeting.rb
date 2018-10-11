@@ -1,7 +1,7 @@
 def greeting
   phrase = "Hello ya'll"
-  put phrase
-  put phrase
-  put phrase
+  puts phrase
+  puts phrase
+  puts phrase
 end
 greeting
