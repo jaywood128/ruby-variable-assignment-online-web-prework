@@ -1,7 +1,5 @@
-def greeting
-  phrase = "Hello ya'll"
-  puts phrase
-  puts phrase
-  puts phrase
+def greeting(name)
+  puts "Hello #{name}!"
+
 end
-greeting
+greeting()
